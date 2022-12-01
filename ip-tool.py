@@ -58,7 +58,7 @@ try:
                 main()
                 m3()
             elif ch==4:
-                print(Y+"Çıkış yaptınız geri girmek için python3 ghost0x02.py demeniz yeterli."+W)
+                print(Y+"Çıkış yaptınız geri girmek için python3 ip-tool.py demeniz yeterli."+W)
             else:
                 print(R+"\nGeçersiz!\n")
                 m3()
